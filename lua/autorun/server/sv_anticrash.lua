@@ -30,8 +30,8 @@ local MG_BlockedEntityDamageList = {
 }
 
 local MG_LanguageStrings = { -- Translate the addon.
-	"Please don't use button models, rather the standard ones!",
-	"There is a player stucking in this prop!",
+	"Please use the standard button model.",
+	"There is a player stuck in this prop!",
 	"This prop is now blocked. Thank you!",
 }
 
